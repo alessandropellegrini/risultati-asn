@@ -1,0 +1,28 @@
+name: Fetch
+
+on:
+  schedule:
+    - cron: "0 8,10,12,14,16,18,20,23 * * *"
+      
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Fetch results
+        run: ./fetch.php
+
+      - name: Commit README.md
+        run: |
+          git config --local user.email "asn@example.com"
+          git config --local user.name "ASN Bot"
+          git add README.md
+          git commit -m "Update results"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
