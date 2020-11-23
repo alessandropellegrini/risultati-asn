@@ -2,8 +2,9 @@
 
 # Risultati V Quadrimestre
 
-Usciti 177 settori su 190.
+Usciti 178 settori su 190.
 
+- 23/11/2020: 01/B1
 - 20/11/2020: 08/E2
 - 20/11/2020: 08/A3
 - 19/11/2020: 09/D3
