@@ -67,7 +67,10 @@ foreach($settori as $settore) {
 	if($pubblicato) {
 		$usciti++;
 		$usciti_nuovi++;
-		$new_found = "- " . date("d/m/Y") . ": " . $settore ."\n" . $new_found;
+		$new_found = "- " . date("d/m/Y") . ": " . $settore .
+			" ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/1/6), " .
+			"[II Fascia](https://asn18.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/2/6))\n" .
+			$new_found;
 		file_put_contents("README.md", $new_found . $cache);
 	}
 
