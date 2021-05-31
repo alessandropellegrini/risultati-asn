@@ -2,8 +2,17 @@
 
 # Risultati VI Quadrimestre
 
-Usciti 97 settori su 190.
+Usciti 106 settori su 190.
 
+- 31/05/2021: 13/D2 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD2/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FD2/2/6))
+- 31/05/2021: 13/B3 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB3/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB3/2/6))
+- 31/05/2021: 13/B2 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB2/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB2/2/6))
+- 31/05/2021: 12/F1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FF1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FF1/2/6))
+- 31/05/2021: 12/A1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FA1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/12%252FA1/2/6))
+- 31/05/2021: 08/E1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FE1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FE1/2/6))
+- 31/05/2021: 08/B1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FB1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FB1/2/6))
+- 31/05/2021: 08/A2 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA2/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FA2/2/6))
+- 31/05/2021: 02/B1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FB1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FB1/2/6))
 - 31/05/2021: 06/F3 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF3/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF3/2/6))
 - 31/05/2021: 10/A1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FA1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/10%252FA1/2/6))
 - 28/05/2021: 13/A3 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA3/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA3/2/6))
