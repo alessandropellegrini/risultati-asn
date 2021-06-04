@@ -2,8 +2,13 @@
 
 # Risultati VI Quadrimestre
 
-Usciti 159 settori su 190.
+Usciti 164 settori su 190.
 
+- 04/06/2021: 13/B5 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB5/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FB5/2/6))
+- 04/06/2021: 11/C4 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC4/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FC4/2/6))
+- 04/06/2021: 06/F2 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF2/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FF2/2/6))
+- 04/06/2021: 06/E3 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FE3/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FE3/2/6))
+- 04/06/2021: 02/D1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FD1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/02%252FD1/2/6))
 - 04/06/2021: 06/B1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FB1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/06%252FB1/2/6))
 - 03/06/2021: 08/F1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FF1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/08%252FF1/2/6))
 - 03/06/2021: 13/A4 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA4/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/13%252FA4/2/6))
