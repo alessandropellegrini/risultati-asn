@@ -2,8 +2,9 @@
 
 # Risultati VI Quadrimestre
 
-Usciti 184 settori su 190.
+Usciti 185 settori su 190.
 
+- 23/07/2021: 05/D1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FD1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FD1/2/6))
 - 14/07/2021: 07/B1 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FB1/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/07%252FB1/2/6))
 - 07/07/2021: 11/A2 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA2/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/11%252FA2/2/6))
 - 14/06/2021: 05/H2 ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FH2/1/6), [II Fascia](https://asn18.cineca.it/pubblico/miur/esito/05%252FH2/2/6))
