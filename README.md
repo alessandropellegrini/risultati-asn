@@ -7,7 +7,6 @@ Usciti 15 settori su 190.
 - 21/01/2022: 14/A1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FA1/2/1))
 - 21/01/2022: 13/D2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD2/2/1))
 - 21/01/2022: 13/B5 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB5/2/1))
-- 21/01/2022: 07/F1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FF1/2/1))
 - 21/01/2022: 06/F1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/2/1))
 - 21/01/2022: 13/A4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA4/2/1))
 - 21/01/2022: 12/E4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FE4/2/1))
