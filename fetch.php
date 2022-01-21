@@ -22,6 +22,19 @@ $settori = array(
 	'14/C2', '14/C3', '14/D1'
 );
 
+
+function get_page($url)
+{
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)');
+        $output = curl_exec($ch);
+	curl_close($ch);
+
+	return $output;
+}
+
 $cache = file_get_contents("README.md");
 if(!$cache) {
 	file_put_contents("README.md", "\n");
@@ -44,23 +57,16 @@ foreach($settori as $settore) {
 		continue;
 	}
 
-	$page = file_get_contents('https://abilitazione.miur.it/public/pubblicarisultati_2018.php', false, stream_context_create([
-	    'http' => [
-	        'method' => 'POST',
-	        'header'  => "Content-type: application/x-www-form-urlencoded",
-	        'content' => http_build_query([
-	            'settore' => $settore,
-		    'fascia' => '2',
-		    'sessione' => '6'
-	        ])
-	    ]
-	]));
-
+	$url = "https://asn21.cineca.it/pubblico/miur/esito/".str_replace("/", "%252F",$settore)."/1/1";
+	$page = get_page($url);
+	
 	if($page === FALSE)
 		exit(1);
 
-	
-	$pubblicato = (strstr($page, "non ci sono risultati in pubblicazione") == FALSE);
+	$pubblicato = (strstr($page, "Settore non pubblicato") == FALSE);
+	if($pubblicato) {
+		echo $page;
+	}
 
 	echo "$settore: " . ($pubblicato ? "SÌ" : "NO") . "\n";
 
@@ -68,8 +74,8 @@ foreach($settori as $settore) {
 		$usciti++;
 		$usciti_nuovi++;
 		$new_found = "- " . date("d/m/Y") . ": " . $settore .
-			" ([I Fascia](https://asn18.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/1/6), " .
-			"[II Fascia](https://asn18.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/2/6))\n" .
+			" ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/1/1), " .
+			"[II Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/2/1))\n" .
 			$new_found;
 		file_put_contents("README.md", $new_found . $cache);
 	}
@@ -80,6 +86,6 @@ foreach($settori as $settore) {
 echo "\n$usciti_nuovi nuovi settori pubblicati.\n";
 echo "Usciti $usciti settori su " . count($settori) . ".\n";
 $new_found = "Usciti " . $usciti . " settori su " . count($settori) . ".\n\n" . $new_found;
-$new_found = "# Risultati VI Quadrimestre\n\n" . $new_found;
-$new_found = "![logo](img/logo.png)\n\n" . $new_found;
+$new_found = "# Risultati I Quadrimestre ASN 2021\n\n" . $new_found;
+$new_found = "![logo](img/logo-2021.png)\n\n" . $new_found;
 file_put_contents("README.md", $new_found . $cache);
