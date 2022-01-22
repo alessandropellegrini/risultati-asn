@@ -63,7 +63,7 @@ foreach($settori as $settore) {
 	if($page === FALSE)
 		exit(1);
 
-	$pubblicato = (strstr($page, "Settore non pubblicato") == FALSE);
+	$pubblicato = (strstr($page, "Settore non pubblicato") == FALSE && strstr($page, "Ci scusiamo per il disagio") == FALSE);
 	if($pubblicato) {
 		echo $page;
 	}
