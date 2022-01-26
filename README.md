@@ -2,8 +2,14 @@
 
 # Risultati I Quadrimestre ASN 2021
 
-Usciti 33 settori su 190.
+Usciti 39 settori su 190.
 
+- 26/01/2022: 07/H4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/1))
+- 26/01/2022: 07/H3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH3/2/1))
+- 26/01/2022: 07/G1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FG1/2/1))
+- 26/01/2022: 05/A2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FA2/2/1))
+- 26/01/2022: 04/A4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA4/2/1))
+- 26/01/2022: 04/A3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/04%252FA3/2/1))
 - 26/01/2022: 10/F1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FF1/2/1))
 - 26/01/2022: 08/E1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/1))
 - 25/01/2022: 14/C3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/1))
