@@ -2,8 +2,17 @@
 
 # Risultati I Quadrimestre ASN 2021
 
-Usciti 146 settori su 190.
+Usciti 155 settori su 190.
 
+- 03/02/2022: 10/M1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FM1/2/1))
+- 03/02/2022: 10/I1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FI1/2/1))
+- 03/02/2022: 10/D2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/2/1))
+- 03/02/2022: 09/D1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FD1/2/1))
+- 03/02/2022: 09/A1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA1/2/1))
+- 03/02/2022: 07/D1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FD1/2/1))
+- 03/02/2022: 05/E3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE3/2/1))
+- 03/02/2022: 05/E2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE2/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE2/2/1))
+- 03/02/2022: 05/E1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FE1/2/1))
 - 03/02/2022: 05/B1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/05%252FB1/2/1))
 - 02/02/2022: 09/H1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FH1/2/1))
 - 02/02/2022: 09/F1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/1))
