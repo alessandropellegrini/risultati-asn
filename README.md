@@ -2,8 +2,9 @@
 
 # Risultati I Quadrimestre ASN 2021
 
-Usciti 187 settori su 190.
+Usciti 188 settori su 190.
 
+- 18/02/2022: 10/N3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/2/1))
 - 08/02/2022: 10/H1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/1))
 - 08/02/2022: 06/D3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/1))
 - 08/02/2022: 06/A2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/1/1), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/2/1))
