@@ -19,7 +19,7 @@ jobs:
           git config --local user.email "asn@example.com"
           git config --local user.name "ASN Bot"
           git add README.md
-          git commit -m "Update results"
+          git diff-index --quiet HEAD || git commit -m "Update results"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
