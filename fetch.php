@@ -57,7 +57,7 @@ foreach($settori as $settore) {
 		continue;
 	}
 
-	$url = "https://asn21.cineca.it/pubblico/miur/esito/".str_replace("/", "%252F",$settore)."/1/1";
+	$url = "https://asn21.cineca.it/pubblico/miur/esito/".str_replace("/", "%252F",$settore)."/1/2";
 	$page = get_page($url);
 	
 	if($page === FALSE)
@@ -74,8 +74,8 @@ foreach($settori as $settore) {
 		$usciti++;
 		$usciti_nuovi++;
 		$new_found = "- " . date("d/m/Y") . ": " . $settore .
-			" ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/1/1), " .
-			"[II Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/2/1))\n" .
+			" ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/1/2), " .
+			"[II Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/2/2))\n" .
 			$new_found;
 		file_put_contents("README.md", $new_found . $cache);
 	}
@@ -86,6 +86,6 @@ foreach($settori as $settore) {
 echo "\n$usciti_nuovi nuovi settori pubblicati.\n";
 echo "Usciti $usciti settori su " . count($settori) . ".\n";
 $new_found = "Usciti " . $usciti . " settori su " . count($settori) . ".\n\n" . $new_found;
-$new_found = "# Risultati I Quadrimestre ASN 2021\n\n" . $new_found;
+$new_found = "# Risultati II Quadrimestre ASN 2021\n\n" . $new_found;
 $new_found = "![logo](img/logo-2021.png)\n\n" . $new_found;
 file_put_contents("README.md", $new_found . $cache);
