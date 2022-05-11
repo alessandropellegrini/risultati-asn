@@ -1,6 +1,6 @@
 ![logo](img/logo-2021.png)
 
-# Risultati I Quadrimestre ASN 2021
+# Risultati II Quadrimestre ASN 2021
 
 Usciti 190 settori su 190.
 
