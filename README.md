@@ -2,8 +2,14 @@
 
 # Risultati II Quadrimestre ASN 2021
 
-Usciti 84 settori su 190.
+Usciti 90 settori su 190.
 
+- 01/06/2022: 09/F1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/2))
+- 01/06/2022: 09/B3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FB3/2/2))
+- 01/06/2022: 08/E1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/2))
+- 01/06/2022: 07/H5 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH5/2/2))
+- 01/06/2022: 07/H2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH2/2/2))
+- 01/06/2022: 06/M1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM1/2/2))
 - 01/06/2022: 10/H1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FH1/2/2))
 - 01/06/2022: 10/D2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FD2/2/2))
 - 01/06/2022: 07/B1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/1/2), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/2/2))
