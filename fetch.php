@@ -22,6 +22,8 @@ $settori = array(
 	'14/C2', '14/C3', '14/D1'
 );
 
+$quadrimestre = '3';
+
 
 function get_page($url)
 {
@@ -57,7 +59,7 @@ foreach($settori as $settore) {
 		continue;
 	}
 
-	$url = "https://asn21.cineca.it/pubblico/miur/esito/".str_replace("/", "%252F",$settore)."/1/2";
+	$url = "https://asn21.cineca.it/pubblico/miur/esito/".str_replace("/", "%252F",$settore)."/1/".$quadrimestre;
 	$page = get_page($url);
 	
 	if($page === FALSE)
@@ -74,8 +76,8 @@ foreach($settori as $settore) {
 		$usciti++;
 		$usciti_nuovi++;
 		$new_found = "- " . date("d/m/Y") . ": " . $settore .
-			" ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/1/2), " .
-			"[II Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/2/2))\n" .
+			" ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/1/".$quadrimestre."), " .
+			"[II Fascia](https://asn21.cineca.it/pubblico/miur/esito/" . str_replace("/", "%252F", $settore) . "/2/".$quadrimestre."))\n" .
 			$new_found;
 		file_put_contents("README.md", $new_found . $cache);
 	}
