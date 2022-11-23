@@ -12,13 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup upterm session
-        uses: lhotari/action-upterm@v1
-        with:
-          limit-access-to-actor: false
-
       - name: Fetch results
-        run: php fetch.php
+        run: OPENSSL_CONF=./ssl.conf php fetch.php
 
       - name: Commit README.md
         run: |
