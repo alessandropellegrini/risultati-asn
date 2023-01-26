@@ -2,8 +2,10 @@
 
 # Risultati IV Quadrimestre ASN 2021
 
-Usciti 21 settori su 190.
+Usciti 23 settori su 190.
 
+- 26/01/2023: 10/N3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FN3/2/4))
+- 26/01/2023: 10/L1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FL1/2/4))
 - 26/01/2023: 07/H4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FH4/2/4))
 - 25/01/2023: 13/D4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD4/2/4))
 - 25/01/2023: 13/D3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FD3/2/4))
