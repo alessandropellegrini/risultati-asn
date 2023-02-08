@@ -2,8 +2,19 @@
 
 # Risultati IV Quadrimestre ASN 2021
 
-Usciti 148 settori su 190.
+Usciti 159 settori su 190.
 
+- 08/02/2023: 09/F2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF2/2/4))
+- 08/02/2023: 09/F1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FF1/2/4))
+- 08/02/2023: 09/E2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FE2/2/4))
+- 08/02/2023: 08/E1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FE1/2/4))
+- 08/02/2023: 08/A4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA4/2/4))
+- 08/02/2023: 08/A1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FA1/2/4))
+- 08/02/2023: 06/M2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FM2/2/4))
+- 08/02/2023: 06/F4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF4/2/4))
+- 08/02/2023: 06/F3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF3/2/4))
+- 08/02/2023: 06/E2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FE2/2/4))
+- 08/02/2023: 06/D2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD2/2/4))
 - 08/02/2023: 14/C3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FC3/2/4))
 - 08/02/2023: 14/B1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/14%252FB1/2/4))
 - 08/02/2023: 13/B4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/4))
