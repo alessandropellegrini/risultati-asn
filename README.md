@@ -2,8 +2,17 @@
 
 # Risultati IV Quadrimestre ASN 2021
 
-Usciti 169 settori su 190.
+Usciti 178 settori su 190.
 
+- 13/02/2023: 09/G2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG2/2/4))
+- 13/02/2023: 09/C2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC2/2/4))
+- 13/02/2023: 08/D1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FD1/2/4))
+- 13/02/2023: 08/B3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/08%252FB3/2/4))
+- 13/02/2023: 06/F1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FF1/2/4))
+- 13/02/2023: 06/D4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD4/2/4))
+- 13/02/2023: 06/D3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FD3/2/4))
+- 13/02/2023: 06/B1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FB1/2/4))
+- 13/02/2023: 06/A2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FA2/2/4))
 - 13/02/2023: 09/A3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FA3/2/4))
 - 13/02/2023: 07/C1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FC1/2/4))
 - 13/02/2023: 06/I1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FI1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/06%252FI1/2/4))
