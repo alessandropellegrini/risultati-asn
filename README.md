@@ -2,8 +2,13 @@
 
 # Risultati IV Quadrimestre ASN 2021
 
-Usciti 181 settori su 190.
+Usciti 186 settori su 190.
 
+- 14/02/2023: 11/E4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE4/2/4))
+- 14/02/2023: 11/E3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FE3/2/4))
+- 14/02/2023: 11/C5 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC5/2/4))
+- 14/02/2023: 11/C2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FC2/2/4))
+- 14/02/2023: 11/A3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/11%252FA3/2/4))
 - 13/02/2023: 12/H2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FH2/2/4))
 - 13/02/2023: 12/D2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/4))
 - 13/02/2023: 10/A1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/1/4), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/10%252FA1/2/4))
