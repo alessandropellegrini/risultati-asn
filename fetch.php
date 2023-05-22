@@ -86,9 +86,9 @@ foreach($settori as $settore) {
 date_default_timezone_set('Europe/Rome');
 $date = date('d/m/Y h:i:s a', time());
 echo "\n Ultimo aggiornamento: ".$date. ".\n";
-
 echo "\n$usciti_nuovi nuovi settori pubblicati.\n";
 echo "Usciti $usciti settori su " . count($settori) . ".\n";
+$new_found = "Ultimo aggiornamento " . $date . ".\n\n";
 $new_found = "Usciti " . $usciti . " settori su " . count($settori) . ".\n\n" . $new_found;
 $new_found = "# Risultati V Quadrimestre ASN 2021\n\n" . $new_found;
 $new_found = "![logo](img/logo-2021.png)\n\n" . $new_found;
