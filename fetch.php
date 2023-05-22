@@ -83,6 +83,9 @@ foreach($settori as $settore) {
 
 	usleep(500000);
 }
+date_default_timezone_set('Europe/Rome');
+$date = date('d/m/Y h:i:s a', time());
+echo "\n Ultimo aggiornamento: ".$date. ".\n";
 
 echo "\n$usciti_nuovi nuovi settori pubblicati.\n";
 echo "Usciti $usciti settori su " . count($settori) . ".\n";
