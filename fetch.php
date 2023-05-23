@@ -44,7 +44,7 @@ if(!$cache) {
 		die("Cannot access README.md file");
 	}
 }
-$cache = implode("\n", array_slice(explode("\n", $cache), 6));
+$cache = implode("\n", array_slice(explode("\n", $cache), 8));
 
 $new_found = "";
 $usciti = 0;
@@ -84,9 +84,14 @@ foreach($settori as $settore) {
 	usleep(500000);
 }
 
+
+date_default_timezone_set('Europe/Rome');
+$date = date('d/m/Y h:i:s a', time());
+echo "\n Ultimo aggiornamento: ".$date. ".\n";
 echo "\n$usciti_nuovi nuovi settori pubblicati.\n";
 echo "Usciti $usciti settori su " . count($settori) . ".\n";
 $new_found = "Usciti " . $usciti . " settori su " . count($settori) . ".\n\n" . $new_found;
+$new_found = "Ultimo aggiornamento " . $date . ".\n\n" . $new_found;
 $new_found = "# Risultati V Quadrimestre ASN 2021\n\n" . $new_found;
 $new_found = "![logo](img/logo-2021.png)\n\n" . $new_found;
 file_put_contents("README.md", $new_found . $cache);
