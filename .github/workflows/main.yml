@@ -2,7 +2,7 @@ name: Fetch
 
 on:
   schedule:
-    - cron: "0 8,10,12,14,16,18,20,22 * * *"
+    - cron: "0 6,8,10,12,14,16,18,20,22 * * *"
       
 jobs:
   fetch:
