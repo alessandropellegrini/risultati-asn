@@ -2,8 +2,16 @@
 
 # Risultati V Quadrimestre ASN 2021
 
-Usciti 84 settori su 190.
+Usciti 92 settori su 190.
 
+- 08/06/2023: 12/D2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FD2/2/5))
+- 08/06/2023: 12/B1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/12%252FB1/2/5))
+- 08/06/2023: 03/D2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FD2/2/5))
+- 08/06/2023: 03/B1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FB1/2/5))
+- 08/06/2023: 02/B1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FB1/2/5))
+- 08/06/2023: 02/A2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/02%252FA2/2/5))
+- 08/06/2023: 01/A5 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA5/2/5))
+- 08/06/2023: 01/A4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA4/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/01%252FA4/2/5))
 - 06/06/2023: 07/B1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/07%252FB1/2/5))
 - 06/06/2023: 09/G1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FG1/2/5))
 - 06/06/2023: 09/C1 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/1/5), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/09%252FC1/2/5))
