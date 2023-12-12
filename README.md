@@ -2,8 +2,9 @@
 
 # Risultati VI Quadrimestre ASN 2021
 
-Usciti 123 settori su 190.
+Usciti 124 settori su 190.
 
+- 12/12/2023: 03/A2 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/1/6), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/03%252FA2/2/6))
 - 11/12/2023: 13/B4 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/1/6), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB4/2/6))
 - 11/12/2023: 13/B3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/1/6), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FB3/2/6))
 - 11/12/2023: 13/A3 ([I Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/1/6), [II Fascia](https://asn21.cineca.it/pubblico/miur/esito/13%252FA3/2/6))
