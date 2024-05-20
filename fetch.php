@@ -21,7 +21,7 @@ $settori = array(
 	'14/C2', '14/C3', '14/D1'
 );
 
-$quadrimestre = '6';
+$quadrimestre = '1';
 
 
 function get_page($url)
@@ -88,5 +88,5 @@ echo "\n$usciti_nuovi nuovi settori pubblicati.\n";
 echo "Usciti $usciti settori su " . count($settori) . ".\n";
 $new_found = "Usciti " . $usciti . " settori su " . count($settori) . ".\n\n" . $new_found;
 $new_found = "# Risultati I Quadrimestre ASN 2023\n\n" . $new_found;
-$new_found = "![logo](img/logo-2021.png)\n\n" . $new_found;
+$new_found = "![logo](img/logo-2023.png)\n\n" . $new_found;
 file_put_contents("README.md", $new_found . $cache);
