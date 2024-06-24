@@ -2,8 +2,11 @@
 
 # Risultati I Quadrimestre ASN 2023
 
-Usciti 9 settori su 190.
+Usciti 12 settori su 190.
 
+- 24/06/2024: 14/C2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC2/2/1))
+- 24/06/2024: 13/D1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/1))
+- 24/06/2024: 13/A5 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA5/2/1))
 - 24/06/2024: 10/H1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/2/1))
 - 24/06/2024: 09/C2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC2/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC2/2/1))
 - 24/06/2024: 06/F1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF1/2/1))
