@@ -2,8 +2,19 @@
 
 # Risultati I Quadrimestre ASN 2023
 
-Usciti 23 settori su 190.
+Usciti 34 settori su 190.
 
+- 26/06/2024: 13/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FC1/2/1))
+- 26/06/2024: 10/I1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FI1/2/1))
+- 26/06/2024: 10/F3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF3/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF3/2/1))
+- 26/06/2024: 10/D4 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/1))
+- 26/06/2024: 09/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/2/1))
+- 26/06/2024: 06/F2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF2/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF2/2/1))
+- 26/06/2024: 03/D2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD2/2/1))
+- 26/06/2024: 03/D1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FD1/2/1))
+- 26/06/2024: 03/B2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/2/1))
+- 26/06/2024: 03/A2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA2/2/1))
+- 26/06/2024: 01/A5 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/01%252FA5/2/1))
 - 26/06/2024: 06/E1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE1/2/1))
 - 25/06/2024: 06/D5 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD5/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD5/2/1))
 - 25/06/2024: 06/B1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/1/1), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/2/1))
