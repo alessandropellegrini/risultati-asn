@@ -1,6 +1,6 @@
 ![logo](img/logo-2023.png)
 
-# Risultati II Quadrimestre ASN 2023
+# Risultati I Quadrimestre ASN 2023
 
 Usciti 1 settori su 190.
 
